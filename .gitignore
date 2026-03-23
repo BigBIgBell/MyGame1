@@ -1,0 +1,11 @@
+Library/ 
+Temp/ 
+Obj/ 
+Logs/ 
+UserSettings/ 
+.vscode/ 
+.vsconfig 
+Assembly-CSharp-Editor.csproj 
+Assembly-CSharp.csproj 
+MyGame.sln 
+Packages/packages-lock.json 
